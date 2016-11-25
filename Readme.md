@@ -1,3 +1,3 @@
-#Telnet Server
+# Telnet Server for promoting stuff
 
-für node.js
+Usage: `telnet ppn.flipdot.org 4242`
